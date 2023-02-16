@@ -1,0 +1,40 @@
+ul li {
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+ul li:hover {
+  color: white;
+}
+
+.menu {
+  display: none;
+}
+
+.translateRight {
+  right: -30rem;
+}
+.menuContainer {
+  display: none;
+}
+
+@media screen and (max-width: 570px) {
+  .menuContainer {
+    display: flex;
+  }
+  ul {
+    display: none;
+  }
+  .logo {
+    width: 4rem;
+  }
+  .menu {
+    display: block;
+    margin-right: 4rem;
+  }
+  .nav_bar {
+    justify-content: space-between;
+    width: 100%;
+    z-index: 1;
+  }
+}

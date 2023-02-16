@@ -1,1 +1,176 @@
 /* You can add global styles to this file, and also import other style files */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cabin", sans-serif;
+}
+
+html,
+body {
+  font-size: 100%;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+@media screen and (max-width: 1420px) {
+  html {
+    font-size: 95%;
+  }
+}
+
+@media screen and (max-width: 1380px) {
+  html {
+    font-size: 90%;
+  }
+}
+
+@media screen and (max-width: 1276px) {
+  .bg_img {
+    margin-right: -10rem;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  html {
+    font-size: 85%;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  html {
+    font-size: 80%;
+  }
+  .home_container {
+    flex-direction: column;
+    padding-bottom: 3rem;
+    gap: 3rem;
+    padding-left: 0;
+  }
+
+  .home_content {
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+  }
+  .bg_img {
+    left: 0;
+    margin-right: 0;
+    width: 100vw;
+    transform: rotate(90deg);
+    bottom: -67rem;
+    left: -42rem;
+  }
+  .leading-normal {
+    font-size: 32px;
+  }
+  .line {
+    display: none;
+  }
+  .home_img img {
+    margin-left: 3rem;
+    margin-top: 1rem;
+  }
+  .home_img {
+    width: 50vw !important;
+  }
+}
+
+@media screen and (max-width: 913px) {
+  html {
+    font-size: 80%;
+  }
+  .header {
+    font-size: 90px !important;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .header {
+    left: 1rem !important;
+  }
+}
+
+@media screen and (max-width: 913px) {
+  .header {
+    font-size: 86px !important;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  html {
+    font-size: 75%;
+  }
+  .header {
+    font-size: 80px !important;
+  }
+  .wh_class {
+    -webkit-text-stroke: 3px white !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  html {
+    font-size: 70%;
+  }
+  .header {
+    font-size: 70px !important;
+  }
+  .home_img {
+    width: 34rem !important;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  html {
+    font-size: 67%;
+  }
+  .header {
+    font-size: 65px !important;
+  }
+}
+@media screen and (max-width: 570px) {
+  html {
+    font-size: 63%;
+  }
+  .header {
+    font-size: 60px !important;
+  }
+  .home_img {
+    width: 38rem !important;
+  }
+  .home_content {
+    margin-top: 3rem;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  html {
+    font-size: 58%;
+  }
+  .header {
+    font-size: 54px !important;
+  }
+  .home_img {
+    width: 40rem !important;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .home_img {
+    width: 35rem !important;
+  }
+
+  .header {
+    font-size: 44px !important;
+  }
+  .home_content {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+}
