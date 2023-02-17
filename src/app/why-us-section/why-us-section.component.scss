@@ -135,3 +135,12 @@
     -webkit-text-stroke: 2px white !important;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .wh_class {
+    -webkit-text-stroke: 1px white !important;
+  }
+  .header {
+    -webkit-text-stroke: 1px #690000;
+  }
+}

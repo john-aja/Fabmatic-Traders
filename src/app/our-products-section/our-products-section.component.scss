@@ -183,3 +183,13 @@
     width: 18rem;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .wh_class {
+    -webkit-text-stroke: 1px white !important;
+  }
+  .header {
+    font-size: 44px !important;
+    -webkit-text-stroke: 1px #690000;
+  }
+}

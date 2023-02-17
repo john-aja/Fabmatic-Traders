@@ -20,16 +20,17 @@
   <div class="absolute right-0 top-0 bg_img">
     <img src="../assets/curve.svg" alt="" class="min-h-screen" />
   </div>
+
   <div
     #home
     class="flex items-center justify-between py-20 pl-10 gap-10 home_container"
   >
     <div class="text-white home_content flex flex-col gap-28">
-      <p class="text-9xl mt-20 font-black">
+      <p class="text-9xl mt-20 font-black title">
         Fabmatic <br />
         Trading WLL
       </p>
-      <p class="text-6xl font-medium pl-2 italic leading-normal">
+      <p class="text-6xl font-medium pl-2 italic leading-normal sub_title">
         Laundry & Dry Cleaning <br />
         Equipment
       </p>
@@ -37,8 +38,10 @@
         <div class="h-12 w-1 bg-red-400 line"></div>
         <p
           class="flex items-center gap-4 text-xl px-6 py-2 bg-red-400 rounded-full"
+          (click)="scroll(about)"
         >
-          Know more <img src="../assets/arrow-right.svg" alt="" />
+          Know more
+          <img src="../assets/arrow-right.svg" alt="" class="w-4" />
         </p>
       </div>
     </div>
