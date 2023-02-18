@@ -21,6 +21,8 @@
 .ou_class {
   margin-left: 8px;
   font-family: sans-serif;
+  z-index: 99999;
+  position: relative;
 }
 
 .wh_class::before {

@@ -21,6 +21,11 @@
 .card_container p {
   font-size: 1.3rem;
 }
+.yClass {
+  font-family: sans-serif;
+  position: relative;
+  z-index: 99999;
+}
 
 .wh_class::before {
   content: "";
