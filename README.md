@@ -70,6 +70,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 For any inquiries or support regarding the Scheme Welfare Web Application, please contact:
 
 ***John***
+
 Email: ***janakiram.0695@gmail.com***
 
 Feel free to reach out with any questions, feedback, or suggestions. Your input is highly appreciated!
