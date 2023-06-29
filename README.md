@@ -16,7 +16,7 @@ Fabmatic Trader incorporates the following technologies:
 
 
 ## Features
-
+ 
 1. ***List of Laundry Press Machines:*** Explore a comprehensive collection of laundry press machines offered by Fabmatic Trader. Find detailed information about each machine, including specifications, features, and pricing.
 
 2. ***List of Dry Cleaning Press Machines:*** Browse through a wide range of dry cleaning press machines available through Fabmatic Trader. Discover the perfect machine for your dry cleaning needs, with complete descriptions and pricing details.
