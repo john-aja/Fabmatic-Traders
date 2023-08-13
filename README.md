@@ -1,5 +1,8 @@
 # Fabmatic Traders
 
+![fabmatic](https://github.com/john-aja/Fabmatic-Traders/assets/95049418/20fa30db-dc57-4e4e-bc01-6c433fa6a7aa)
+
+
 ## Overview
 
 Fabmatic Trader is a single-page application developed using Angular technology and Tailwind CSS. It serves as a website dedicated to Fabmatic Trading WLL, an expert in the laundry industry. With a highly skilled team proficient in engineering, operational, and financial aspects, Fabmatic Trading offers turn-key customized solutions for both new projects and existing operations.
