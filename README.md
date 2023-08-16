@@ -1,11 +1,10 @@
 # Fabmatic Traders
 
-![fabmatic](https://github.com/john-aja/Fabmatic-Traders/assets/95049418/20fa30db-dc57-4e4e-bc01-6c433fa6a7aa)
-
-
-## Overview
+![fabmatic-mock](https://github.com/john-aja/Fabmatic-Traders/assets/95049418/84c24b11-033c-4a33-9553-1e1f624dbaee)
 
 Fabmatic Trader is a single-page application developed using Angular technology and Tailwind CSS. It serves as a website dedicated to Fabmatic Trading WLL, an expert in the laundry industry. With a highly skilled team proficient in engineering, operational, and financial aspects, Fabmatic Trading offers turn-key customized solutions for both new projects and existing operations.
+
+To open the website in a browser, please click on the following link : https://fabmatictrading.netlify.app/
 
 *This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.*
 
@@ -69,8 +68,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Contact
-
-For any inquiries or support regarding the Fabmatic Traders website, please contact:
 
 ***John***
 
